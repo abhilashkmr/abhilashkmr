@@ -1,0 +1,6 @@
+lst=[]
+for x in range(555,1111):
+    if(x%7 ==0):
+        lst.append(x)
+print (lst)
+print (len(lst))
